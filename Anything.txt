@@ -1,1 +1,7 @@
 this is some randome text
+
+apple
+mango
+cat
+puppy
+kitten
